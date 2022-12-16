@@ -1,0 +1,29 @@
+{
+  "name": "mern-task-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DimitarBelchev/MERN-Task-Tracker.git"
+  },
+  "author": "Dimitar Belchev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DimitarBelchev/MERN-Task-Tracker/issues"
+  },
+  "homepage": "https://github.com/DimitarBelchev/MERN-Task-Tracker#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.0"
+  },
+  "devDependencies": {
+    "concurrently": "^7.6.0",
+    "nodemon": "^2.0.20"
+  }
+}
